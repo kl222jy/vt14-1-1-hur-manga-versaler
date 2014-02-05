@@ -14,6 +14,7 @@ namespace Lab1._1
 
         }
 
+        //Beräknar antalet versaler för textbox och presenterar för användaren
         protected void Button_Click(object sender, EventArgs e)
         {
             if (Input.Text != "")
